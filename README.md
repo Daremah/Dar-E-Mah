@@ -1,19 +1,26 @@
-# Hi, I’m Dar E Mah 👋
-**QA Specialist (Games) + Game Designer**
+# Daremah Aslam
+**Senior QA Engineer | Game Designer | Gameplay Systems & Player Experience**
 
-🎮 I test games, break things safely, write clear bug reports, and design systems that are fun and balanced.  
-📍 Finland (Helsinki time) | 🛠 Tools: Jira, TestRail (or mention what you use), Unity, GitHub
+📍 Finland • Open to QA Lead / Senior QA / Game Design roles
 
 ## What I do
-- ✅ Manual QA (test plans, test cases, regression, exploratory testing)
-- 🐞 Bug reporting (clear steps, expected vs actual, severity/priority)
-- 🎯 Game design (core loops, balance, level design notes, economy tuning)
+- 🧪 QA: test strategy, exploratory/regression, live ops validation, release readiness, triage
+- 🎮 Design: gameplay systems, feature design, balance/economy validation, UX feedback
+- 🛠 Tools: Unity, Jira/Confluence, TestRail, Git
 
-## Portfolio
-- 🔗 Website: (add GitHub Pages link later)
-- 🧪 QA Projects: (links later)
-- 🎮 Game Design Projects: (links later)
+## Shipped Titles (selected)
+- War of Nova (Revolving Games)
+- Skyborne / Skyborne Genesis (Revolving Games)
+- Hatchlings / HatchKings (Revolving Games)
+- PUZKIN (Puz Universe)
+- Battle Buds: Rumble Bash
+- Gym Heroes: Fighting Game
+- Karate Fighter: Fighting Games
+- Bad Girls Wrestling Game
+
+## Portfolio Website
+➡️ Coming next (GitHub Pages)
 
 ## Contact
-- LinkedIn: (add)
-- Email: (add)
+- LinkedIn: linkedin.com/in/daremah-aslam
+- Email: daremah.aslam@gmail.com
