@@ -19,7 +19,7 @@
 - Bad Girls Wrestling Game
 
 ## Portfolio Website
-➡️ Coming next (GitHub Pages)
+➡️ https://daremah.github.io/portfolio
 
 ## Contact
 - LinkedIn: linkedin.com/in/daremah-aslam
